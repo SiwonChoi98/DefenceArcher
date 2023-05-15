@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Melee
+  - Range
+  - Floor
+  - Wall
+  - Arrow
+  - Enemy
+  - EnemyWeapon
+  - Shop
+  - Skill4
+  - Skill3
+  - Skill1
+  - Skill2
+  - TurretArrow
+  - Tower
+  - SkillShop
+  - FireTower1
+  - FireTower2
+  - FireTower3
+  - FireTower4
+  - FireTower5
+  - BossDoor
+  - Warring
+  - Green Fire 1
+  - Green Fire 2
+  - Green Fire 3
+  - Green Fire 4
+  - Green Fire 5
+  - BossDoor2
+  - Purple Fire 1
+  - Purple Fire 2
+  - Purple Fire 3
+  - Purple Fire 4
+  - Purple Fire 5
+  - BossDoor3
+  - BossAttack3
+  - BossAttack2
+  - BossAttack1
+  - BossSecondAttack1
+  - BossSecondAttack2
+  - BossSecondAttack3
+  - BossThirdAttack1
+  - BossThirdAttack3
+  - BossThirdAttack2
+  - Obstacle
+  - GreenZonePortal
+  - BlueZonePortal
+  - PurpleZonePortal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - PlayerArrow
+  - Wall
+  - Floor
+  - Enemy
+  - EnemyDead
+  - Arrow
+  - MainCamera
+  - MinimapCamera
+  - tower
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
